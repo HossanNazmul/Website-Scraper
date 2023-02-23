@@ -1,0 +1,3 @@
+website_scraper.exe -w https://dogorfrog.com/ -f DogOrFrog-Data.xlsx
+
+set /p DUMMY=Hit ENTER to continue...

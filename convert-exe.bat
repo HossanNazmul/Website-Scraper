@@ -1,0 +1,1 @@
+pyinstaller --onefile web_scraper.py
