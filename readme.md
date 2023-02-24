@@ -12,6 +12,8 @@ website_scraper.exe -w \<website-url\> -f <exel-file.xlsx>
 
 ### How to use: ###
 
+Download the "website_scraper.exe" files which are located under "release" folder. 
+
 Open a command prompt or terminal window.
 
 Navigate to the directory containing the "website_scraper.exe" file.
@@ -26,12 +28,6 @@ Alternatively, you can enter the url and filename in start.bat file. save it and
 
 
 ### For Advance user: ###
-Title: Web Scraper for Sitemap XML Files
-
-README:
-
-This program is a command line application that allows the user to scrape URLs, titles, meta descriptions, H1 tag text, and language from webpages listed in a sitemap XML file for a given website. The scraped data is then written to an Excel file.
-
 The program is written in Python and uses the following libraries:
 
 requests
